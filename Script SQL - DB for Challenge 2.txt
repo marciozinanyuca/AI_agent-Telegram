@@ -1,4 +1,4 @@
--- Query SQL para reto 2 - Capa de seguridad con telegram_id
+-- Query SQL para reto 2 - Capa de seguridad con telegram_id 
 
 -- 1. CREACIÓN DE TABLA: Estructura de la base de datos con la capa de seguridad incluida
 CREATE TABLE empleados (  
